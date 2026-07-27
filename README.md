@@ -1,1 +1,1 @@
-# Password-Strength-Checker
+# Password Entropy Calculation
